@@ -1,0 +1,4 @@
+#VScode
+referencia: https://code.visualstudio.com
+relaçao: VScode ou Visual Studio Code é um software criado pela microsoft para edição e criação de códigos em diversas linguagens.
+Ele é util pois simplifica o processo de criar ou editar um código, e seu uso é facil e interativo.

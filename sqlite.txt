@@ -1,0 +1,5 @@
+#SQLite Browser
+referência: https://sqlitebrowser.org/
+relaçao: SQlite browser, ou mais especificamente DB Browser for SQLite, é uma ferramenta que permite que o usuário possa manipular banco de dados do
+SQL de diversas formas, além de importar e exportar tabelas. Ela é util na disciplina pois ajuda a construir nosso conhecimento para trabalhar com banco de dados, que 
+é muito comum no mercado.

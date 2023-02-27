@@ -1,0 +1,5 @@
+#Python
+referência: https://www.python.org
+relação: o python é uma linguagem de programação e uma ferramenta poderosa para o web development, sendo fácil de entender e muito útil tanto para quem está começando quanto para
+desenvolvedores mais experientes.
+
